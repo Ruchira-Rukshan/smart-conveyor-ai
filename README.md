@@ -1,6 +1,20 @@
-# ♻️ Smart Conveyor AI: Virtual Garbage Sorting System
+<p align="center">
+  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/128/external-conveyor-factory-industrial-production-flatart-icons-flat-flatarticons.png" width="100" alt="Conveyor Belt Icon">
+</p>
 
-A premium **Virtual Smart AI Conveyor Belt Dashboard** built with **YOLOv8** object tracking and **Streamlit**. This application is designed to simulate a real-world automated garbage sorting conveyor belt using a standard webcam or video feed.
+<h1 align="center">Smart Conveyor AI</h1>
+
+<p align="center">
+  A Next-Generation AI-Powered Garbage Sorting & Conveyor Belt Analytics System
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
+  <img src="https://img.shields.io/badge/YOLOv8-00C9FF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="YOLOv8 Badge">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
+</p>
 
 ---
 
@@ -15,7 +29,7 @@ A premium **Virtual Smart AI Conveyor Belt Dashboard** built with **YOLOv8** obj
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Details
 
 *   **Computer Vision**: OpenCV (`cv2`), Ultralytics (`YOLOv8`)
 *   **Web Framework**: Streamlit (Premium Custom CSS customization)
