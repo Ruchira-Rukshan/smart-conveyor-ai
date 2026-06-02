@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Streamlit
+.streamlit/
+
+# Database
+*.db
+*.sqlite3
+
+# Models (Optional: Comment out if you want to push best.pt to GitHub)
+# best.pt
+*.pt
+
+# Virtual Environments
+venv/
+env/
+
+# Dataset folders
+TrashNet*/
+*.yolov8/
