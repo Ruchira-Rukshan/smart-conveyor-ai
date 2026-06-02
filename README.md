@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/128/external-conveyor-factory-industrial-production-flatart-icons-flat-flatarticons.png" width="100" alt="Conveyor Belt Icon">
-</p>
-
 <h1 align="center">Smart Conveyor AI</h1>
 
 <p align="center">
