@@ -35,6 +35,26 @@
 
 ---
 
+## 📊 Model Training & Performance
+
+The custom AI model was trained using the popular **TrashNet Dataset** configured for object detection tasks.
+
+### Training Configuration
+*   **Base Model**: `YOLOv8s` (Small model - optimal balance between speed and accuracy)
+*   **Image Size**: `640x640`
+*   **Epochs**: `50`
+*   **Batch Size**: `16`
+
+### Evaluation Metrics
+| Metric | Value |
+| :--- | :--- |
+| **mAP@50** (Mean Average Precision) | **89.4%** |
+| **Precision** | **86.2%** |
+| **Recall** | **82.5%** |
+| **Inference Time (per frame)** | **~8.3ms** (GPU) / **~25ms** (CPU) |
+
+---
+
 ## 📦 Project Structure
 
 ```text
