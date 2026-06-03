@@ -7,6 +7,8 @@ __pycache__/
 build/
 dist/
 *.spec
+!app.spec
+
 
 # Streamlit
 .streamlit/
@@ -15,9 +17,9 @@ dist/
 *.db
 *.sqlite3
 
-# Models (Optional: Comment out if you want to push best.pt to GitHub)
-# best.pt
+# Models
 *.pt
+!best.pt
 
 # Virtual Environments
 venv/
